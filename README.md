@@ -23,6 +23,18 @@ Ship movement is treated as a **time-frequency signal**, processed using:
 ### **3️⃣ Generate Spectrograms**
 Spectrograms are visual representations of the ship's movement and signal patterns, created using **Matplotlib, Librosa, or Scipy**.
 
+```bash
+/AIS_Spectrograms_Dataset/
+│── train/
+│   ├── 123456789/ (MMSI label)
+│   │   ├── spec_001.png
+│   │   ├── spec_002.png
+│   ├── 987654321/
+│   │   ├── spec_001.png
+│── val/
+│── test/
+```
+
 ---
 
 ## 🧠 Model Architecture: ResNet for MMSI Classification
