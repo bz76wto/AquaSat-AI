@@ -92,7 +92,6 @@ python scripts/train_model.py --model resnet50
 ---
 
 ## **🔬 Research Contributions**
-This project aligns with the **Application of Novel AI Techniques to Satellite Big Data Analysis in Support of Maritime Risk Management**, as discussed in **GSTS deliverables 5.3**:
 - **Use of Ensemble Learning** for **higher prediction certainty**.
 - **Validation with Optical & Radar Data** to reduce false positives.
 - **Handling Missing MMSI Data** by leveraging satellite imagery.
