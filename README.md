@@ -7,7 +7,7 @@ This project integrates **deep learning, computer vision, and multi-modal data f
 ---
 
 ## **⚠️ Disclaimer**
-> This repository provides a **pseudo-code implementation** due to the confidentiality and sensitivity of the actual work. The concepts, methodologies, and structures are inspired by real-world research but do not contain proprietary or classified information. Any resemblance to confidential projects is purely coincidental.
+> This repository provides a **pseudo-code implementation** due to the confidentiality and sensitivity. The concepts, methodologies, and structures are inspired by real-world research but do not contain proprietary or classified information. 
  
 
 ## **🚀 Key Features**
