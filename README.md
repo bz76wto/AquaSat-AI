@@ -8,14 +8,7 @@ This project integrates **deep learning, computer vision, and multi-modal data f
 
 ## **⚠️ Disclaimer**
 > This repository provides a **pseudo-code implementation** due to the confidentiality and sensitivity of the actual work. The concepts, methodologies, and structures are inspired by real-world research but do not contain proprietary or classified information. Any resemblance to confidential projects is purely coincidental.
-
-# **AquaSat-AI: AI-Powered Satellite-Based Maritime Monitoring** 🌊🚢  
-
-**AquaSat-AI** is an open-source framework applying **AI and big data analytics** to **satellite-derived maritime monitoring**, with a focus on **Automatic Identification System (AIS) spectrogram analysis**.  
-
-This project integrates **deep learning, computer vision, and multi-modal data fusion** to enhance **vessel detection, classification, and anomaly detection** in maritime environments.  
-
----
+ 
 
 ## **🚀 Key Features**
 - ✅ **Multi-Modal Learning**: Combines **AIS spectrograms, satellite imagery (SAR, optical), and environmental data**.
